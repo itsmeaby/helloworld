@@ -1,2 +1,4 @@
 # helloworld
-my first repository
+
+hi humans!
+i like python programming language.
